@@ -8,7 +8,7 @@ Chin-Nien Chen/Thomas/陳錦年
 Work experience
 ----
 System Analyst, Sinopac Securities  
-Information Technology Department  
+Information Technology Division  
 2018/03 ~ now  
 * Develop emerging stock quote/trading system
     - Deal with FIX (Financial Information eXchange) messages from Taipei Exchange and recommend the best qutoes to user.
@@ -25,6 +25,7 @@ Freelance Software Engineer
     - Data cleaning/checking/sorting tools.
     
 * Technical support about
+    - 2018 APUJAN AUTUMN/WINTER 2018 CATWALK SHOW:devices programming and installation.
     - Automation test programming.
     - SNMP (Simple Network Management Protocol) programming.
     - Systems analysis and code review.
