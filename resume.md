@@ -3,22 +3,22 @@ Chin-Nien Chen/Thomas/陳錦年
 <theoneisneo@gmail.com>  
 <https://github.com/theoneisneo/>  
 <https://medium.com/@t1neo/>  
-+886-910-069-909
 
 Work experience
 ----
-System Analyst, Sinopac Securities  
-Information Technology Division  
+System Analyst/Software Engineer  
+Sinopac Securities, Information Technology Division  
 2018/03 ~ now  
-* Develop emerging stock quote/trading system
-    - Deal with FIX (Financial Information eXchange) messages from Taipei Exchange and recommend the best qutoes to user.
-    - Performance tuning. Reduce searching algorithm complexity from O(n) to O(1).
+* Develop emerging stock trading system
+    - Deal with FIX (Financial Information eXchange) messages from Taipei Exchange and recommend the best quotations to users.
+    - Performance tuning.  
+        - Implement data converter which are 3 ~ 5 times faster than built in.  
+        - Reduce searching algorithm complexity from O(n) to O(1).
     - Develop auto testing tool for checking data accuracy.
 
-Freelance Software Engineer  
-2016/06 ~ 2018/02  
-2013/06 ~ 2014/06  
-
+Software Engineer  
+Freelance  
+2016/06 ~ 2018/02, 2013/06 ~ 2014/06  
 * Develop softwares including
     - Auto-buy bots and web crawlers.
     - Rule-based chatbots for micro web services.
@@ -31,10 +31,9 @@ Freelance Software Engineer
     - Systems analysis and code review.
     - Small scale optimization problems.
  
-Algorithm/Software Engineer, Mitac Inc.  
-Advanced Intelligent SCADA Div. Process Automation Business Center  
-2014/07 ~ 2016/05
-
+Algorithm Engineer/Software Engineer
+Mitac Inc., Advanced Intelligent SCADA Div. Process Automation Business Center  
+2014/07 ~ 2016/05  
 * Develop Automatic Train Supervisor (ATS) server system.
     - Research Automatic Train Regulation (ATR) problem.  
         - Design and implement algorithms with __Machine__ __Learning__ and __Particle__ __Swarm__ __Optimization__.
@@ -43,18 +42,16 @@ Advanced Intelligent SCADA Div. Process Automation Business Center
         - Automated testing with remote control feature.
 - Help 10 team members to use git, lint and debugger.  
 
-Software Engineer, Quanta Inc.  
-Cloud Computing Business Unit.  
-2010/01 ~ 2013/05
-
+Software Engineer
+Quanta Inc., Cloud Computing Business Unit.  
+2010/01 ~ 2013/05  
 * Develop management blades OS(embedded Linux) of blade server.
     - SNMP (Simple Network Management Protocol).  
         - Port open source project Net-SNMP to ARM based embedded Linux systems.
         - Fix Net-SNMP command issues and support higher dimension index assign method.
         - Reduce run-time memory size from 14mb to 10mb.
     - System functions like  
-        - System loading statistics. Multicast server/client, email alerting. 
-        - SMASH (Systems Management Architecture for Server Hardware) UI. Server blades/connection blades control functions.
+        - System loading statistics, multicast, email alerting. Server blades/connection blades control functions. SMASH (Systems Management Architecture for Server Hardware) UI. 
         
 Education
 ----
@@ -66,9 +63,8 @@ Skills
 ----
 
 * Programming languages and tools :
-    - C, cpplint, cppcheck, valgrind, GDB.
-    - Python, Pylint, PuDB.
-    - Git, Docker.
+    - C, Python
+    - Git, Docker, cpplint, cppcheck, valgrind, GDB, Pylint, PuDB.
 * Mathematics :
     - Linear algebra.
     - Numerical analysis.
