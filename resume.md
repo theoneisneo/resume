@@ -16,7 +16,7 @@ Sinopac Securities, Information Technology Division
         - Reduce searching algorithm time complexity from O(n) to O(1).
         - Develop auto testing tool for checking data accuracy.
 * Develop risk management system for high frequency trading users
-    - Send alert or block trading account if not passed full risk management conditions.  
+    - Send alert or block trading accounts if not passed full risk management conditions.  
     - Build auto testing tool and generate performance related data.  
 
 Software Engineer  
