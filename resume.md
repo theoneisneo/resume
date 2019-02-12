@@ -9,7 +9,7 @@ Software Engineer / Sinopac Securities, Information Technology Division
 2018/03 ~ now  
 * Develop emerging stock trading system
     - Deal with FIX (Financial Information eXchange) protocol for trading and recommand the best quotations.
-    - Performance tuning, like implement data converter which are 3 ~ 5 times faster than built in, reduce searching algorithm time complexity from O(n) to O(1).
+    - Performance tuning, like implement data converters which are 3 ~ 5 times faster than built in, reduce searching algorithm time complexity from O(n) to O(1).
 * Develop risk management system for high frequency trading users
     - Send alert or block trading accounts if not passed full risk management conditions as fast as possible. 
 
@@ -20,7 +20,7 @@ Software Engineer / Freelance
     - Rule-based chatbots for micro web services.
     - Data cleaning/checking/sorting tools.    
 * Technical support about
-    - 2018 APUJAN AUTUMN/WINTER CATWALK SHOW: devices programming and installation.
+    - 2018 ApuJan Autumn/Winter Catwalk Show: devices programming and installation.
     - Automation test programming.
     - SNMP (Simple Network Management Protocol) programming.
     - Systems analysis, small scale optimization problems and code review.
