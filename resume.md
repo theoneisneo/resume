@@ -9,9 +9,7 @@ Software Engineer / Sinopac Securities, Information Technology Division
 2018/03 ~ now  
 * Develop emerging stock trading system
     - Deal with FIX (Financial Information eXchange) protocol for trading and recommand the best quotations.
-    - Performance tuning.  
-        - Implement data converter which are 3 ~ 5 times faster than built in.  
-        - Reduce searching algorithm time complexity from O(n) to O(1).
+    - Performance tuning, like implement data converter which are 3 ~ 5 times faster than built in, reduce searching algorithm time complexity from O(n) to O(1).
 * Develop risk management system for high frequency trading users
     - Send alert or block trading accounts if not passed full risk management conditions as fast as possible. 
 
@@ -25,16 +23,14 @@ Software Engineer / Freelance
     - 2018 APUJAN AUTUMN/WINTER CATWALK SHOW: devices programming and installation.
     - Automation test programming.
     - SNMP (Simple Network Management Protocol) programming.
-    - Systems analysis and code review.
-    - Small scale optimization problems.
+    - Systems analysis, small scale optimization problems and code review.
  
 Software Engineer / Mitac Inc., Advanced Intelligent SCADA Div. Process Automation Business Center  
 2014/07 ~ 2016/05  
 * Develop Automatic Train Supervisor (ATS) server system.
     - Research Automatic Train Regulation (ATR) problem.  
         - Design and implement algorithms with Machine Learning and Particle Swarm Optimization.
-        - Develop train simulator to simulate trains' location, speed, dwell time, delay time and compute headway.
-- Help 10 team members to use git, lint and debugger.  
+        - Develop train simulator to simulate trains' location, speed, dwell time, delay time and compute headway.  
 
 Software Engineer / Quanta Inc., Cloud Computing Business Unit.  
 2010/01 ~ 2013/05  
