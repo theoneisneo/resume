@@ -1,57 +1,29 @@
-Chin-Nien Chen/Thomas/陳錦年  
+Chin-Nien Chen / Thomas  
 <theoneisneo@gmail.com>  
 <https://github.com/theoneisneo/>  
 <https://medium.com/@t1neo/>  
 
-Work experience
-----
-Software Engineer / Sinopac Securities, Information Technology Division  
-2018/03 ~ now  
-* Develop emerging stock trading system
-    - Deal with FIX (Financial Information eXchange) protocol for trading and recommand the best quotations.
-    - Performance tuning, like implement data converters which are 3 ~ 5 times faster than built in, reduce searching algorithm time complexity from O(n) to O(1).
-* Develop risk management system for high frequency trading users
-    - Send alert or block trading accounts if not passed full risk management conditions as fast as possible. 
+Work experience  
+Data Engineer & Software Engineer / Sinopac Securities / 2018/03 ~ now  
+* Develop news recommendation system. Show news to customers by what stocks they have and what news they have read.
+* Develop emerging stock trading system. Analysis FIX (Financial Information eXchange) messages for trading and recommand the best quotations. Performance tuning like implement data converters which are 3 ~ 5 times faster than built in, reduce searching algorithm time complexity from O(n) to O(1).
+* Develop post risk management system for high frequency trading users. Check conditions after users sent orders. If not passed given conditions, send alert or block trading accounts in 1 ~ 2ms. 
 
-Software Engineer / Freelance  
-2016/06 ~ 2018/02, 2013/06 ~ 2014/06  
-* Develop softwares including
-    - Auto-buy bots and web crawlers.
-    - Rule-based chatbots for micro web services.
-    - Data cleaning/checking/sorting tools.    
-* Technical support about
-    - 2018 ApuJan Autumn/Winter Catwalk Show: devices programming and installation.
-    - Automation test programming.
-    - SNMP (Simple Network Management Protocol) programming.
-    - Systems analysis, small scale optimization problems and code review.
+Software Engineer / Freelance / 2016/06 ~ 2018/02, 2013/06 ~ 2014/06  
+* Develop softwares including auto-buy bots, web crawlers, rule-based chatbots, micro web services, data cleaning tools.    
+* Technical support about Automation test, SNMP (Simple Network Management Protocol) programming. Systems analysis, small scale optimization problems and code review.
+* 2018 ApuJan Autumn/Winter Catwalk Show: devices programming and installation.
  
-Software Engineer / Mitac Inc., Advanced Intelligent SCADA Div. Process Automation Business Center  
-2014/07 ~ 2016/05  
-* Develop Automatic Train Supervisor (ATS) server system.
-    - Research Automatic Train Regulation (ATR) problem.  
-        - Design and implement algorithms with Machine Learning and Particle Swarm Optimization.
-        - Develop train simulator to simulate trains' location, speed, dwell time, delay time and compute headway.  
+Software Engineer / Mitac / 2014/07 ~ 2016/05  
+* Develop ATS (Automatic Train Supervisor) server. Design and implement ATR (Automatic Train Regulation) algorithms with Machine Learning and PSO (Particle Swarm Optimization).
 
-Software Engineer / Quanta Inc., Cloud Computing Business Unit.  
-2010/01 ~ 2013/05  
-* Develop management blades OS(embedded Linux) of blade server.
-    - SNMP (Simple Network Management Protocol, use open source project Net-SNMP).  
-        - Port and Fix Net-SNMP command issues and support higher dimension index assign method.
-        - Reduce run-time memory size from 14mb to 10mb.
-    - System functions like  
-        - System loading statistics, multicast. SMASH (Systems Management Architecture for Server Hardware) UI and control functions. 
+Software Engineer / Quanta / 2010/01 ~ 2013/05  
+* Develop management blades OS (embedded Linux) of blade server. SNMP program (based on open source project Net-SNMP). Supports higher dimension tables. Reduce 3o% run-time memory. And other functions like system loading statistics, multicast.  
         
-Education
-----  
-* National Taiwan University, Bachelor, Mathematics department  
-2004/09 ~ 2008/06
+Education    
+* National Taiwan University, Bachelor, Mathematics department  / 2004/09 ~ 2008/06
 
-Skills
-----  
-* Programming languages and tools:
-    - C, Python. Study C++ now.
-    - Git, Docker, cpplint, cppcheck, valgrind, GDB, Pylint, PuDB, google benchmark.
-
-* Mathematics:
-    - Linear algebra.
-    - Numerical analysis.
+Technical Skills    
+* C, Python. A bit C++ and SQL.  
+* Git, Docker, cpplint, cppcheck, valgrind, GDB, Pylint, PuDB, google benchmark.  
+* Linear algebra, numerical analysis.
