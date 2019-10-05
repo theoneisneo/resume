@@ -5,7 +5,8 @@ Chin-Nien Chen / Thomas
 
 Work experience  
 Data Engineer & Software Engineer / Sinopac Securities / 2018/03 ~ now  
-* Develop news recommendation system. Show news to customers by what stocks they have and what news they have read.
+* Develop news recommendation system. Recommend user finance news by what stocks they have and what news they have read.  
+* Build data pipelines (for data analysis), web services (like Line bot) and RESTful APIs (like some interal data queries).
 * Develop emerging stock trading system. Analysis FIX (Financial Information eXchange) messages for trading and recommand the best quotations. Performance tuning like implement data converters which are 3 ~ 5 times faster than built in, reduce searching algorithm time complexity from O(n) to O(1).
 * Develop post risk management system for high frequency trading users. Check conditions after users sent orders. If not passed given conditions, send alert or block trading accounts in 1 ~ 2ms. 
 
