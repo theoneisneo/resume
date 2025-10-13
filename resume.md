@@ -22,7 +22,7 @@ Data Engineer & Software Engineer / Sinopac Securities / 2018/03 ~ 2020/07
 * Develop news recommendation system. Recommend user finance news by stocks they have and news they read.  
 * Create phrases suggestion list for CRM (Customer Relationship Management) notes by BERT model.
 * Build data pipelines (for data analysis), web services (like Line bot) and RESTful APIs (like internal data queries).
-* Develop emerging stock trading system. Analysis FIX (Financial Information eXchange, contains orderbook) messages for trading and recommend the best quotations. Performance tuning like implement data converters which are 3 ~ 5 times faster, reduce searching algorithm time complexity from O(n) to O(1) (average).
+* Develop emerging stock trading system. Analysis FIX (Financial Information eXchange) messages for trading and recommend the best quotations. Performance tuning like implement data converters which are 3 ~ 5 times faster, reduce searching algorithm time complexity from O(n) to O(1) (average).
 * Develop post risk management system for HFT (high frequency trading) users. Check after orders sending out. Send alert or block trading accounts in 1 ~ 2ms.  
 
 Software Engineer / Freelance / 2016/06 ~ 2018/02, 2013/06 ~ 2014/06  
