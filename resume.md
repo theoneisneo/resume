@@ -9,7 +9,7 @@ Quantitative Developer / EphodTech / 2022/04 ~ 2025/03
 * Creating factors from exist data.  
 * Manage data flow systems. First use Airflow to trig AWS batch, then create jobs to do ETL jobs.  
 * Extract by web crawlers or API integration, including data missing alert.  
-* Transform original data by required math model, than load to database.  
+* Transform original data by math or required model, than load to database.  
 * Create data check system, stats the missing data, unusual data, we use this for ensure everyday's data flow is good enough.  
 * Optimize each job's working time to a reasonable range, one of the heaviest job from about 90 mins to less than 12 mins.
 
