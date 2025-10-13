@@ -20,20 +20,20 @@ Quantitative Developer / Manteio Capital / 2020/11 ~ 2022/02
 
 Data Engineer & Software Engineer / Sinopac Securities / 2018/03 ~ 2020/07
 * Develop news recommendation system. Recommend user finance news by stocks they have and news they read.  
-* Create phrases suggestion list for CRM (Customer Relationship Management) notes by BERT (Bidirectional Encoder Representations from Transformers).
+* Create phrases suggestion list for CRM (Customer Relationship Management) notes by BERT model.
 * Build data pipelines (for data analysis), web services (like Line bot) and RESTful APIs (like internal data queries).
-* Develop emerging stock trading system. Analysis FIX (Financial Information eXchange, contains orderbook) messages for trading and recommend the best quotations. Performance tuning like implement data converters which are 3 ~ 5 times faster than built in, reduce searching algorithm time complexity from O(n) to O(1) (average).
-* Develop post risk management system for HFT (high frequency trading) users. Alongside HFT system, check after orders sending out. Can send alert or block trading accounts in 1 ~ 2ms.  
+* Develop emerging stock trading system. Analysis FIX (Financial Information eXchange, contains orderbook) messages for trading and recommend the best quotations. Performance tuning like implement data converters which are 3 ~ 5 times faster, reduce searching algorithm time complexity from O(n) to O(1) (average).
+* Develop post risk management system for HFT (high frequency trading) users. Check after orders sending out. Send alert or block trading accounts in 1 ~ 2ms.  
 
 Software Engineer / Freelance / 2016/06 ~ 2018/02, 2013/06 ~ 2014/06  
 * Develop softwares including auto-buy bots, web crawlers, rule-based chatbots, micro web services, data cleaning tools, plug-in for existing software (like Maya).    
 * Technical support about Automation test, SNMP (Simple Network Management Protocol) programming. Systems analysis, small scale optimization problems and code review.
 
 Software Engineer / Mitac / 2014/07 ~ 2016/05  
-* Develop ATS (Automatic Train Supervisor) server. Design and implement ATR (Automatic Train Regulation) algorithms with Machine Learning and PSO (Particle Swarm Optimization).
+* Develop ATS (Automatic Train Supervisor) server. Develop ATR (Automatic Train Regulation) algorithms with Machine Learning and PSO (Particle Swarm Optimization).
 
 Software Engineer / Quanta / 2010/01 ~ 2013/05  
-* Develop management blades OS (embedded Linux) of blade server. Reduce 30% run-time memory of SNMP service, supports higher dimension tables. And other functions like system loading statistics, multicast.  
+* Develop management blades OS (embedded Linux) of blade server. Reduce 30% run-time memory of SNMP service, supports higher dimension tables. And functions like system loading statistics, multicast.  
         
 Education    
 * National Taiwan University, Bachelor, Mathematics department  / 2004/09 ~ 2008/06
