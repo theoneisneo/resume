@@ -3,7 +3,6 @@ Chin-Nien Chen / Thomas
 <https://github.com/theoneisneo/>  
 <https://medium.com/@t1neo/>  
 
-
 Work experience  
 
 Quantitative Developer / EphodTech / 2022/04 ~ 2025/03  
@@ -13,7 +12,6 @@ Quantitative Developer / EphodTech / 2022/04 ~ 2025/03
 * Transform original data to advanced data, most of that by doing math calculations, than load to database.  
 * Create data check system, stats the missing data, unusual data, we use this for ensure everyday's data flow is good enough.  
 * Optimize each job's working time to a reasonable range, one of the heaviest job from about 90 mins to less than 12 mins.
-
 
 Quantitative Developer / Manteio Capital / 2020/11 ~ 2022/02 
 * Build Airflow system with multi-workers, schedule data downloading, data processing and strategies running.  
